@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package programacion3;
+package coordenadas;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Lenovo
  */
-public class Programacion3 {
+public class CoordenadasXY {
 
     public static void main(String[] args) {
         /*creo vectores para almacenar las posiciones del eje x y del eje y */
